@@ -1,6 +1,6 @@
 # Minesweeper AI
 ## What it does
-This project uses Conjunt bases AI to base it's decisions
+This project uses Conjunt based AI to base it's decisions
 If no information if provided, it does not know what to do, thus the decision is random 
 ( see the video at 2:00 ), where the AI starts the round, knowing nothing about the field, 
 and end up chosing a mine, losing the game )
