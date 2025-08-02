@@ -6,7 +6,7 @@ If no information if provided, it does not know what to do, thus the decision is
 and end up chosing a mine, losing the game )
 
 But if Information is provided, the decisions are all made based on this information,
-in this Minesweeper case, infering where are safe cells or dangerous celss
+in this Minesweeper case, infering where are safe cels or dangerous cels
 
 ## VIDEO:
 
